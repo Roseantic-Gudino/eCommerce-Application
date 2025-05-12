@@ -1,4 +1,4 @@
-# eCommerce-Application
+# eCommerce Application
 
 The core modules are:
 1. Product Management – Handles product information and categorization.
